@@ -10,6 +10,6 @@
 	<menuitems>
 		<silentmonitor>Silent Monitor</silentmonitor>
 	</menuitems>
-	<location>release/2.4/silentmonitor-1.5.2.tgz</location>
-	<md5sum>83b552d1c530cbe2f7d6c0d5d892c85b</md5sum>
+	<location>release/silentmonitor-1.5.2.tgz</location>
+	<md5sum>1d24ab8f24652229cac7b44de64c4ebe</md5sum>
 </module>
