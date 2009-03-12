@@ -6,7 +6,7 @@
 		1.5.2 Added to contributed modules repository
 	</changelog>
 	<type>setup</type>
-	<category>Internal Options &amp; Configuration</category>
+	<category>Third Party Addon</category>
 	<menuitems>
 		<silentmonitor>Silent Monitor</silentmonitor>
 	</menuitems>
